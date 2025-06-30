@@ -1,7 +1,7 @@
 # SpameBase
 
 ***About the Dataset:***
-TThe Spambase dataset is a collection of email messages categorized as spam or not spam. It's a popular benchmark dataset used for machine learning tasks like spam filtering and text classification.
+The Spambase dataset is a collection of email messages categorized as spam or not spam. It's a popular benchmark dataset used for machine learning tasks like spam filtering and text classification.
 
 ***Here's a breakdown of the dataset:***
 	Source: UCI Machine Learning Repository (https://archive.ics.uci.edu/dataset/94/spambase)
